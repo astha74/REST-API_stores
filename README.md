@@ -1,3 +1,3 @@
 # REST-API_stores
 
-make this repository to deploy on heroku
+Make this repository to deploy on heroku
